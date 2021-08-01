@@ -85,7 +85,7 @@ const Blog = ({ santhosh }) => {
         }`}</title>
         <meta
           name="description"
-          content="Happy Friendship day 💚 - Friendship Day Wishes and Greetings."
+          content="Happy Friendship day 💚 - Friendship Day Wishes and Greetings - By:J25"
         />
         <meta
           property="og:title"
@@ -98,7 +98,7 @@ const Blog = ({ santhosh }) => {
         <meta property="og:type" content="website" />
         <meta
           property="og:description"
-          content="Happy Friendship day 💚 - Friendship Day Wishes and Greetings."
+          content="Happy Friendship day 💚 - Friendship Day Wishes and Greetings - By:J25"
         />
         <meta
           property="og:image"
@@ -111,7 +111,7 @@ const Blog = ({ santhosh }) => {
         />
         <meta
           name="twitter:description"
-          content="Happy Friendship day 💚 - Friendship Day Wishes and Greetings."
+          content="Happy Friendship day 💚 - Friendship Day Wishes and Greetings - By:J25"
         />
         <meta
           name="twitter:image"
@@ -156,7 +156,7 @@ const Blog = ({ santhosh }) => {
                 "@id": `${pathname}`,
               },
               description:
-                "Happy Friendship day 💚 - Friendship Day Wishes and Greetings.",
+                "Happy Friendship day 💚 - Friendship Day Wishes and Greetings - By:J25",
             }),
           }}
         />
