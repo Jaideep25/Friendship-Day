@@ -52,7 +52,7 @@ class RetrieveList extends Component {
   }
 
   render() {
-    const pathname = "https://friendshipj25.up.railway.app/"
+    const pathname = "https://friendship-day-j25.vercel.app/"
     return (
       <section className="section">
         <Head>
@@ -80,7 +80,7 @@ class RetrieveList extends Component {
           />
           <meta
             property="og:image"
-            content="https://friendshipj25.up.railway.app/sanwebwish.png"
+            content="https://friendship-day-j25.vercel.app/sanwebwish.png"
           />
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:title" content="Happy Friendship day 💛 Wishes" />
@@ -90,7 +90,7 @@ class RetrieveList extends Component {
           />
           <meta
             name="twitter:image"
-            content="https://friendshipj25.up.railway.app/sanwebwish.png"
+            content="https://friendship-day-j25.vercel.app/sanwebwish.png"
           />
           <link rel="canonical" href={pathname} />
           <meta name="twitter:url" content={pathname} />
@@ -114,7 +114,7 @@ class RetrieveList extends Component {
                   url: `${pathname}`,
                   logo: {
                     "@type": "ImageObject",
-                    url: "https://friendshipj25.up.railway.app/logo.png",
+                    url: "https://friendship-day-j25.vercel.app/logo.png",
                     width: 60,
                     height: 60,
                   },
@@ -122,7 +122,7 @@ class RetrieveList extends Component {
                 url: `${pathname}`,
                 image: {
                   "@type": "ImageObject",
-                  url: "https://friendshipj25.up.railway.app/sanwebwish.png",
+                  url: "https://friendship-day-j25.vercel.app/sanwebwish.png",
                   width: 1200,
                   height: 630,
                 },
