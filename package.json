@@ -1,0 +1,36 @@
+{
+  "name": "next-name-wish",
+  "description": "Friendship Day Wishes - Name Wishing Site for Friendship day Build using Next JS.",
+  "version": "0.1.0",
+  "private": true,
+  "author": "J25",
+  "license": "MIT",
+  "keywords": [
+    "wishes",
+    "greetings",
+    "festival",
+    "messages",
+    "friendship day"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\""
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bulma": "^0.9.3",
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-awesome-reveal": "^3.8.1",
+    "react-copy-to-clipboard": "^5.0.3",
+    "react-dom": "17.0.2",
+    "react-toastify": "^7.0.4",
+    "react-typist": "^2.0.5",
+    "slugify": "^1.6.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
