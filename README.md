@@ -28,8 +28,7 @@ For more check - `pages/api/wish/`
 - Clone this repo or Download
 
 ```sh
-git clone https://github.com/mskian/next-name-wish
-next-name-wish
+git clone https://github.com/jaideep25/friendship-day
 yarn install
 ```
 
